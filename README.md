@@ -18,3 +18,4 @@
 
 - añado linea domingo 11:39 local
 - 
+- añado linea domingo 11:40 github
