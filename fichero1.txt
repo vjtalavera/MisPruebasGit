@@ -2,3 +2,4 @@ linea 1 fichero1.txt desde github
 linea 1 fichero1.txt
 linea 2 fichero1.txt local
 linea 3 fichero1.txt local
+linea 4 fichero1.txt local domingo 12:02
