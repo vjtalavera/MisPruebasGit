@@ -4,3 +4,4 @@ linea3 fichero2.txt github domingo 31 julio 2 update
 linea4 fichero2.txt github domingo 31 julio 3 update
 linea4 fichero2.txt local domingo 31 julio 4 update
 linea5 fichero2.txt local domingo 31 julio 5 update
+linea6 fichero2.txt local domingo 31 julio 6 update
