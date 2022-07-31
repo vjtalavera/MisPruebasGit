@@ -2,3 +2,4 @@ linea1 fichero2.txt github
 linea2 fichero2.txt local domingo 31 julio
 linea3 fichero2.txt github domingo 31 julio 2 update
 linea4 fichero2.txt github domingo 31 julio 3 update
+linea4 fichero2.txt local domingo 31 julio 4 update
