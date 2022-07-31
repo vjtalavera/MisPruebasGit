@@ -1,2 +1,3 @@
 linea1 fichero2.txt github
 linea2 fichero2.txt local domingo 31 julio
+linea3 fichero2.txt github domingo 31 julio 2 update
