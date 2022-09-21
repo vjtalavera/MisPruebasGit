@@ -4,3 +4,4 @@ linea 3 para volver a ver el fetch
 linea 4 otro fetch
 linea 5 para ver el fetch
 linea 6 fetch
+linea 7 fetch -v
