@@ -1,2 +1,5 @@
 fila 1 fichero 10.txt grabado en remoto
 fila 2
+fila 3
+fila 4
+
